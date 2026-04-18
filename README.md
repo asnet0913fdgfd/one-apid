@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# One API
+# One API.
 
 _✨ 通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨_
 
